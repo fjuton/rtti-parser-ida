@@ -5,5 +5,5 @@ currently supports only IDA 9.0.
 
 ## todo;
 
-[] use a proper demangler
-[] more compilers support
+- [ ] use a proper demangler
+- [ ] more compilers support
